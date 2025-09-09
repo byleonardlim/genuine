@@ -15,23 +15,21 @@
 **O**pen-endedness is intentional; GENUINE is not prescriptive but rather a playground for evolving uses cases users can imagine on. From sensitive delta tracking dashboard to high rish decision making instruments.  
 **U**ltimately, GENUINE is a platform for enterprise AI use cases, with infinite possibilities and fun.  
 
----
-
 ## Tech Stack
 
 ### Frontend
-NextJS
-TypeScript
-TailwindCSS
-Shadcn
+- NextJS
+- TypeScript
+- TailwindCSS
+- Shadcn
 
 ### Backend
-ChromaDB
+- ChromaDB
 
 ### AI
 #### Option 1
-LangChain
-LangGraph
+- LangChain
+- LangGraph
 
 #### Option 2
-Matra
+- Matra
