@@ -1,5 +1,3 @@
-# Project GENUINE
-
 ## Product Pitch
 
 **C**odename **GENUINE** , a name with unique name, backed by a story and made to be easily remembered.
