@@ -20,12 +20,14 @@
 - TypeScript
 - TailwindCSS
 - Shadcn
+- ReUI - extension of what Shadcn is providing
 
 ### Backend
 - ChromaDB
+- Hosted on a docker compose through podman emulation of docker
 
 ### AI
 For simplicity and a lower barrier to entry, Matra is used to handle the agentic development.
-- Matra
+- Mastra
 - Antropic Sonnet 4 - UI agent, data wrangler agent
 - OpenAI ChatGPT 4 - The orchestrator
