@@ -25,9 +25,7 @@
 - ChromaDB
 
 ### AI
-#### Option 1
-- LangChain
-- LangGraph
-
-#### Option 2
+For simplicity and a lower barrier to entry, Matra is used to handle the agentic development.
 - Matra
+- Antropic Sonnet 4 - UI agent, data wrangler agent
+- OpenAI ChatGPT 4 - The orchestrator
